@@ -1,0 +1,43 @@
+#main{
+	background-color: #fff;
+    font: bold 24px/1 'PT Sans', sans-serif;
+    list-style:none;
+	margin:0 auto;
+	width:600px;
+}
+
+
+h1{
+	font-size:36px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 0 0 30px;
+
+
+}
+
+h2{
+	font-size:36px;
+	text-align: center;
+	padding: 0 0 30px;
+	visibility: hidden;
+	color:#619461 !important;
+
+}
+
+#order{
+	background-color:#89bde5;
+}
+
+.street1{
+	margin-top: 20px; 
+}
+
+.help-block{
+	font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.form-control{
+	margin-bottom: 3px;
+}
